@@ -35,3 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # reactProps
+<img width="978" height="322" alt="prop" src="https://github.com/user-attachments/assets/88736693-ff34-4a5e-b445-90ce8a011e4b" />
